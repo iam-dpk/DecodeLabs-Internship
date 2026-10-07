@@ -22,7 +22,7 @@ This project performs Exploratory Data Analysis (EDA) on the provided final data
 ## Key Observations
 - Dataset contains 1,200 rows and 14 columns.
 - Duplicate rows: 0.
-- Missing values are concentrated in: CouponCode (309).
+- Missing values are concentrated in: CouponCode (309)..
 - Average TotalPrice: 1,053.97; median: 823.62.
 - Average Quantity: 2.95; median: 3.00.
 - Most frequent Product: Printer.
