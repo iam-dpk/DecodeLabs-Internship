@@ -57,5 +57,12 @@ Python, Pandas, NumPy, Matplotlib, OpenPyXL, Jupyter Notebook.
 2. Open `notebooks/DecodeLabs_Project2_EDA.ipynb`.
 3. Run the cells in order.
 
+<img width="889" height="490" alt="Order Status Distribution" src="https://github.com/user-attachments/assets/bde0479d-9d8c-4f0f-88a5-1fecd030f059" />
+
+<img width="889" height="490" alt="Distribution of Total Price" src="https://github.com/user-attachments/assets/f4da1f3c-13c9-4a5b-b740-865233b4e465" />
+
+<img width="889" height="490" alt="Unit Price vs Total Price" src="https://github.com/user-attachments/assets/bd960efe-a857-494a-a417-3f3b16c1dd30" />
+
+
 ## Note
 The dataset is included for project reproducibility. Redistribution should follow the dataset's original licensing/usage terms.
