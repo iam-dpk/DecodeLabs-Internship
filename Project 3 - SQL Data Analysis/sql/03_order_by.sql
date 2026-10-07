@@ -1,0 +1,1 @@
+SELECT * FROM orders ORDER BY TotalPrice DESC LIMIT 10;

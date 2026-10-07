@@ -1,0 +1,15 @@
+DecodeLabs Project 3 — SQL Data Analysis
+
+Dataset: Final Dataset.xlsx
+Rows: 1,200
+Columns: 14
+SQL table: orders
+
+Overall results
+- Total orders: 1,200
+- Total sales: 1,264,761.96
+- Average order value: 1,053.97
+- Top product by sales: Chair
+- Top payment method by sales: Credit Card
+- Most frequent order status: Cancelled
+- Top referral source by sales: Instagram
