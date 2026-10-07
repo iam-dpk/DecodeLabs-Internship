@@ -44,7 +44,7 @@ DecodeLabs_Project3_SQL/
 └── README.md
 ```
 
-The official DecodeLabs Project 3 brief requires SELECT queries, WHERE, ORDER BY, GROUP BY, and COUNT/SUM/AVG aggregations. This project implements those requirements and also demonstrates HAVING and subqueries.
+The official DecodeLabs Project 3 brief requires SELECT queries, WHERE, ORDER BY, GROUP BY, and COUNT/SUM/AVG aggregations. This project implements those requirements and also demonstrates HAVING and subqueries..
 
 
 ## Visual Preview
