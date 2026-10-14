@@ -51,3 +51,7 @@ Built an interactive sales analytics dashboard using Python, Pandas, Streamlit, 
 ## Important
 - Replace synthetic data with a dataset you have permission to use before making factual business claims.
 - The PDF guide is primarily a data-visualization/storytelling playbook, not a specified business dataset. This implementation uses a synthetic sales dataset as a practical, runnable starting point.
+
+<img width="1158" height="861" alt="Screenshot 2026-10-14 093739" src="https://github.com/user-attachments/assets/5476f7c2-089e-484d-bd30-c1b83ba2e779" />
+
+<img width="762" height="858" alt="Screenshot 2026-10-14 093805" src="https://github.com/user-attachments/assets/5a7a8215-60ab-4785-b986-1eb6dcbb120c" />
